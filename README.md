@@ -1,6 +1,7 @@
-# sp2018spring
-System Programming Course Spring 2018
+SIS1 topic: USB input interruptor, that checks the available usb devices (flash drive) of
+a pluged-in device.
 
-Google Drive:
-https://drive.google.com/drive/u/0/folders/1vH9mQAfQuO09YMnCEqof7ctcCI5Ay_jN
+Module shows plugged-in exact device which I configured in the source code (i.e. my gaming mouse Logitech G403).
+
+To test this module you should first clone the module, insert it into the kernel and look into dmesg which will show info about plugged-in device.
 
