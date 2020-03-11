@@ -1,0 +1,1 @@
+cmd_/home/madi/sysprog/sp2018spring/week1/lab1/lab-1.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/madi/sysprog/sp2018spring/week1/lab1/lab-1.ko /home/madi/sysprog/sp2018spring/week1/lab1/lab-1.o /home/madi/sysprog/sp2018spring/week1/lab1/lab-1.mod.o ;  true

@@ -1,0 +1,1 @@
+cmd_/home/madi/sysprog/sp2018spring/sis1/usb_driver.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/madi/sysprog/sp2018spring/sis1/usb_driver.ko /home/madi/sysprog/sp2018spring/sis1/usb_driver.o /home/madi/sysprog/sp2018spring/sis1/usb_driver.mod.o ;  true
