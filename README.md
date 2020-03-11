@@ -5,3 +5,4 @@ Module shows plugged-in exact device which I configured in the source code (i.e.
 
 To test this module you should first clone the module, insert it into the kernel and look into dmesg which will show info about plugged-in device.
 
+Useful link: https://kernel.readthedocs.io/en/sphinx-samples/writing_usb_driver.html
